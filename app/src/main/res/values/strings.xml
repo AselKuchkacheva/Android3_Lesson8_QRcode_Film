@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android3_Lesson2_Retrofit_With_QRcode</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="age_title">Возраст:</string>
+    <string name="eye_color_title">Цвет глаз:</string>
+    <string name="hair_color_title">Цвет волос:</string>
+    <string name="people_films">Фильмы актера</string>
+    <string name="people_species">Разновидность</string>
+
+</resources>
